@@ -139,6 +139,7 @@ def check_goal(LST):
         global result
         result=LST
         btnSolution.configure(state="normal")
+        btn_solve2.configure(state="disabled")
         create_final_moves(LST[3])
 
 
