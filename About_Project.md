@@ -20,4 +20,4 @@ First, install on your terminal:
 2.pip install customtkinter
 
 Then run the program:
-python puzzle.py
+python main.py
